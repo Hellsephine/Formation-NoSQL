@@ -1,0 +1,5 @@
+{"name":"Referencing 1","price":9.99,"simple_entity_id":{"$oid":"634d1ddffee78d4b611fddc2"}}
+{"name":"Referencing 2","price":9.99,"simple_entity_id":{"$oid":"634d1ddffee78d4b611fddc3"}}
+{"name":"Referencing 3","price":13.99,"simple_entity_id":null}
+{"name":"Referencing 4","price":12.99}
+{"name":"Referencing 5","price":14.99,"simple_entity_id":{"$oid":"634d1ddffee78d4b611fddc2"}}

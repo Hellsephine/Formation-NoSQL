@@ -1,0 +1,4 @@
+{"name":"Complex 1","price":39.99,"embedded":{"name":"Embedded 1","value":0.5}}
+{"name":"Complex 2","price":19.99,"embedded":{"name":"Embedded 2","value":0.2}}
+{"name":"Complex 3","price":9.99}
+{"name":"Complex 4","price":9.99,"embedded":{"name":"Embedded 4","valueWithTypo":0.2},"extra":{"name":"Extra 1"}}

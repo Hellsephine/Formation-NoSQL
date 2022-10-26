@@ -1,0 +1,4 @@
+{"name":"Simple 1","price":39.99}
+{"name":"Simple 2","price":29.99}
+{"name":"Simple 3","price":19.99,"disabled":true}
+{"name":"Simple 4","priceWithTypo":4.99,"disabled":false}
